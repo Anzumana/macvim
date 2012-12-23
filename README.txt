@@ -1,4 +1,5 @@
 README.txt for version 7.3 of Vim: Vi IMproved.
+ss
 
 
 WHAT IS VIM
